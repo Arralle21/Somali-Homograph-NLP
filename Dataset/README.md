@@ -1,1 +1,1 @@
-
+This folder contains the Somali homographs dataset extracted from the Qaamuuska Af-Soomaaliga dictionary with 1,592 unique homographs and their definitions. The CSV file includes columns for homograph words, meaning indices and Somali definitions used in the computational analysis.
