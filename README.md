@@ -1,4 +1,4 @@
-``Somali Homographs NLP``
+# Somali Homographs NLP
 This repository contains the computational analysis code for the Springer-published paper "Creating and Analyzing a Dictionary-Based Lexical Resource for Somali Homograph Disambiguation" by Abdullahi Mohamed Jibril and Abdisalam Mahamed Badel (2025). The project features the first-ever Somali homograph dataset with 1,592 unique homographs extracted from the Qaamuuska Af-Soomaaliga dictionary.
 Features
 The analysis includes comprehensive statistical distributions across the 26-letter Somali alphabet, semantic similarity measurements using TF-IDF and sentence transformers, and machine learning clustering with evaluation metrics. The codebase generates high-resolution visualizations for publication and provides tools for homograph frequency analysis, meaning distribution studies, and semantic clustering evaluation.
