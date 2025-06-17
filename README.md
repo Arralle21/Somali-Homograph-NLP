@@ -45,14 +45,14 @@ Usage
 python# Load and analyze the dataset
 df = pd.read_csv('Dataset/somali_homographs.csv')
 
-``Run statistical analysis``
+``Run statistical analysis``  
 homograph_statistics(df)
 homographs_per_alphabet(df)
 
-``Perform semantic clustering``
+``Perform semantic clustering``  
 model = SentenceTransformer('paraphrase-MiniLM-L6-v2')
 embeddings = encode_sentences(model, df['Somali_definition'].tolist())
 clusters = perform_clustering(embeddings, n_clusters=20)
 
-# Research Impact
+# Research Impact  
 This work represents the first computational analysis of Somali homographs, contributing to low-resource language NLP research. The dataset and analysis tools support future work in Somali language processing, disambiguation systems, and comparative linguistic studies.
