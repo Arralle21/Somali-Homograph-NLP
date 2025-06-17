@@ -1,1 +1,1 @@
-
+This repository contains the code and dataset for our Springer-published paper "Creating and Analyzing a Dictionary-Based Lexical Resource for Somali Homograph Disambiguation" (DOI: 10.1007/978-3-031-91340-2_21), featuring the first-ever Somali homograph dataset with 1,592 unique homographs and machine learning analysis tools.
