@@ -33,17 +33,17 @@ t-SNE visualization of semantic clusters
 Comparative analysis of different embedding methods
 Performance evaluation across multiple clustering algorithms
 
-Technical Requirements
-python# Core dependencies
-pandas >= 1.3.0
-matplotlib >= 3.5.0  
-seaborn >= 0.11.0
-scikit-learn >= 1.0.0
-sentence-transformers >= 2.0.0
-numpy >= 1.21.0
-Usage
-python# Load and analyze the dataset
-df = pd.read_csv('Dataset/somali_homographs.csv')
+Technical Requirements  
+python# Core dependencies  
+pandas >= 1.3.0  
+matplotlib >= 3.5.0    
+seaborn >= 0.11.0  
+scikit-learn >= 1.0.0  
+sentence-transformers >= 2.0.0  
+numpy >= 1.21.0  
+``Usage``  
+python# Load and analyze the dataset  
+df = pd.read_csv('Dataset/somali_homographs.csv')  
 
 ``Run statistical analysis``  
 homograph_statistics(df)
