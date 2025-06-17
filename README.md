@@ -11,7 +11,7 @@ Plots/ - High-resolution visualization outputs (600 DPI) for analysis results
 somali__homographs.py - Main analysis script with all computational functions  
 Somali__Homographs.ipynb - Jupyter notebook version for interactive analysis  
 
-Key Analysis Components
+Key Analysis Components  
 ``Statistical Analysis``
 
 Distribution of homographs across the 26-letter Somali alphabet
