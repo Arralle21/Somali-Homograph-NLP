@@ -1,1 +1,1 @@
-
+This folder contains high-resolution visualization outputs from the Somali homograph analysis including distribution charts, clustering visualizations, and statistical comparisons. All plots are generated at 600 DPI resolution and saved in JPG/PNG format for publication and presentation use.
